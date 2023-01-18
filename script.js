@@ -16,7 +16,7 @@ function fibonacci(sequencia){
   return resultado;
   }
 
-  console.log(fibonacci(8));
+
 
 
 //Experiência dois;
@@ -30,4 +30,4 @@ const fib = (n) =>{
     }
     return table[n];
 }
-console.log(fib(8));
+console.log(fib(73));
